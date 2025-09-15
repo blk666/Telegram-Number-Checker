@@ -25,7 +25,7 @@ UI: [XML Layouts / Jetpack Compose]<br>
 [Jetpack Navigation Component]<br>
 [ViewModel & LiveData]<br>
 [Dagger/Hilt для Dependency Injection]<br>
-[Retrofit для сетевых запросов (если применимо)]<br>
+[Retrofit]<br>
 
 <b>📥 Установка</b><br>
 Вы можете установить APK-файл напрямую на ваше Android-устройство.<br>
